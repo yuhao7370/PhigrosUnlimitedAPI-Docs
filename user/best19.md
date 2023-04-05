@@ -12,7 +12,7 @@
 
 #### Example
 
-+ `{apiurl}/user/best19?SessionToken={token}&overflow=0&withsonginfo=false`
++ `{apiurl}/user/best19?SessionToken={token}&overflow=0&withsonginfo=true`
 
 #### Specially
 
