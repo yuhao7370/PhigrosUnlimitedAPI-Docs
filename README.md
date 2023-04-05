@@ -1,5 +1,8 @@
 # PhigrosUnlimitedAPI-Docs
 
+### 注意事项
+
+目前API还在试验阶段，想试用的b站私信我([yuhao7370](https://space.bilibili.com/275661582))即可
 
 ### Note
 
