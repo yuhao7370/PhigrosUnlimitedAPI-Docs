@@ -4,7 +4,7 @@
 |:-------------|:---------------------------------------------------------------------------------|-------------------------------------------------|
 | SessionToken | SessionToken provided by TapTap                                                  | false                                           |
 | overflow     | number, range 0-40. The number of the	overflow records below the best19 minimum | true                                            |
-| withsonginfo | boolean. if true, will reply with songinfo                                       | true                                            |
+| withsonginfo | boolean. if true, will reply with songinfo, default = false                      | true                                            |
 
 ###### Tag
 

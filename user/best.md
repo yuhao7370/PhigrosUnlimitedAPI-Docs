@@ -5,7 +5,7 @@
 | SessionToken | SessionToken provided by TapTap                                                  | false                                           |
 | songid       | string, commonly like 'Rrharil.TeamGrimoire.0' ('songname.composername.0')       | false                                           |
 | level        | string, among ["EZ", "HD", "IN", "AT", "Legacy"], default = "IN"                 | true                                            |
-| withsonginfo | boolean. if true, will reply with songinfo                                       | true                                            |
+| withsonginfo | boolean. if true, will reply with songinfo, default = false                      | true                                            |
 
 ###### Tag
 
