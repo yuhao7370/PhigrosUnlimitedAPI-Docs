@@ -11,6 +11,7 @@
 
 ### API Entry
 
++ [user/info](/user/info.md)  [POST]
 + [user/best](/user/best.md)  [POST]
 + [user/best19](/user/best19.md)  [POST]
 
